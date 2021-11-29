@@ -3,3 +3,5 @@ pandas
 sklearn
 matplotlib
 #graphviz
+seaborn
+statsmodels

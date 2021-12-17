@@ -2,6 +2,10 @@
 
 Les notebooks se trouvent à la racine de ce repository.
 
+## Auteurs
+
+HAMDI Yacine et PONT Louis
+
 ## data/ 
 
 Contient les dataset utilisés.
